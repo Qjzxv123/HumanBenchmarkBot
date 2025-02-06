@@ -16,7 +16,7 @@ This project automates various tests on the Human Benchmark website using Seleni
     ```sh
     pip install selenium
     ```
-3. Download ChromeDriver from [chromedriver.chromium.org](https://chromedriver.chromium.org/downloads) and place it in a known directory.(You will probably have to change your path
+3. Download ChromeDriver from [github.io](https://googlechromelabs.github.io/chrome-for-testing/) and place it in a known directory.(You will probably have to change your path
 
 ## Usage
 
